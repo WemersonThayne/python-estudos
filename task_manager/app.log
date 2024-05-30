@@ -1,0 +1,1030 @@
+2024-05-18 18:58:05,178 - __main__ - INFO - Starting httpd server on port 8080
+2024-05-18 18:58:26,105 - __main__ - INFO - Starting httpd server on port 8080
+2024-05-18 18:59:30,421 - __main__ - INFO - Starting httpd server on port 8080
+2024-05-19 02:43:00,405 - __main__ - INFO - Starting httpd server on port 8080
+2024-05-19 07:18:16,981 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:14:29,544 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:16:54,865 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:18:24,996 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:18:27,980 - root - INFO - Connection established
+2024-05-19 11:18:27,981 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:18:27,981 - root - INFO - Created Task Table
+2024-05-19 11:22:26,631 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:22:28,366 - root - INFO - Connection established
+2024-05-19 11:22:28,366 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:22:28,366 - root - INFO - Created Task Table
+2024-05-19 11:22:38,973 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:22:43,365 - root - INFO - Connection established
+2024-05-19 11:22:43,366 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:22:43,366 - root - INFO - Created Task Table
+2024-05-19 11:23:13,276 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:23:13,365 - root - INFO - Connection established
+2024-05-19 11:23:13,366 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:23:13,366 - root - INFO - Created Task Table
+2024-05-19 11:23:33,237 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:23:33,372 - root - INFO - Connection established
+2024-05-19 11:23:33,373 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:23:33,373 - root - INFO - Created Task Table
+2024-05-19 11:24:20,043 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:24:23,364 - root - INFO - Connection established
+2024-05-19 11:24:23,365 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:24:23,365 - root - INFO - Created Task Table
+2024-05-19 11:25:27,783 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:25:28,364 - root - INFO - Connection established
+2024-05-19 11:25:28,365 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:25:28,365 - root - INFO - Created Task Table
+2024-05-19 11:25:55,407 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:25:58,374 - root - INFO - Connection established
+2024-05-19 11:25:58,375 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:25:58,376 - root - INFO - Created Task Table
+2024-05-19 11:26:48,461 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:26:52,470 - root - INFO - Connection established
+2024-05-19 11:26:52,471 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:26:52,471 - root - INFO - Created Task Table
+2024-05-19 11:27:07,654 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:27:08,366 - root - INFO - Connection established
+2024-05-19 11:27:08,367 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:27:08,367 - root - INFO - Created Task Table
+2024-05-19 11:35:05,631 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:35:08,364 - root - INFO - Connection established
+2024-05-19 11:35:08,365 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:35:08,365 - root - INFO - Created Task Table
+2024-05-19 11:37:49,733 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:37:53,374 - root - INFO - Connection established
+2024-05-19 11:37:53,376 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:37:53,377 - root - INFO - Created Task Table
+2024-05-19 11:38:12,130 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:38:13,364 - root - INFO - Connection established
+2024-05-19 11:38:13,364 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:38:13,365 - root - INFO - Created Task Table
+2024-05-19 11:38:24,590 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:38:28,280 - root - INFO - finding task with id: 1
+2024-05-19 11:38:31,462 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:38:34,087 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:43:53,228 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:43:53,366 - root - INFO - Connection established
+2024-05-19 11:43:53,367 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:43:53,367 - root - INFO - Created Task Table
+2024-05-19 11:43:58,883 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:43:58,883 - root - INFO - finding task with id: 1
+2024-05-19 11:43:58,884 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:43:58,884 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:44:07,631 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:44:07,632 - root - INFO - finding task with id: 1
+2024-05-19 11:44:10,962 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:44:10,963 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:44:38,366 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:44:42,430 - root - INFO - Connection established
+2024-05-19 11:44:42,430 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:44:42,431 - root - INFO - Created Task Table
+2024-05-19 11:44:42,432 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:44:42,432 - root - INFO - finding task with id: 1
+2024-05-19 11:44:42,432 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:44:42,433 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:44:58,441 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:44:58,441 - root - INFO - finding task with id: 1
+2024-05-19 11:44:58,442 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:44:58,442 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:44:59,134 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:44:59,134 - root - INFO - finding task with id: 1
+2024-05-19 11:44:59,134 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:44:59,134 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:45:17,284 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:45:18,374 - root - INFO - Connection established
+2024-05-19 11:45:18,376 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:45:18,377 - root - INFO - Created Task Table
+2024-05-19 11:45:33,973 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:45:33,974 - root - INFO - finding task with id: 1
+2024-05-19 11:45:33,977 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:45:33,977 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:47:43,974 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:47:48,365 - root - INFO - Connection established
+2024-05-19 11:47:48,365 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:47:48,365 - root - INFO - Created Task Table
+2024-05-19 11:47:53,593 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:47:53,593 - root - INFO - finding task with id: 1
+2024-05-19 11:47:53,594 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:47:53,594 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:53:40,549 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:53:43,365 - root - INFO - Connection established
+2024-05-19 11:53:43,365 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:53:43,365 - root - INFO - Created Task Table
+2024-05-19 11:53:44,554 - root - INFO - Received a GET request in /tasks/1
+2024-05-19 11:53:44,554 - root - INFO - finding task with id: 1
+2024-05-19 11:53:44,555 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-19 11:53:44,555 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-19 11:53:47,446 - root - INFO - finding all tasks
+2024-05-19 11:53:47,446 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,449 - root - INFO - finding all tasks
+2024-05-19 11:53:47,449 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,450 - root - INFO - finding all tasks
+2024-05-19 11:53:47,451 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,452 - root - INFO - finding all tasks
+2024-05-19 11:53:47,453 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,454 - root - INFO - finding all tasks
+2024-05-19 11:53:47,454 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,456 - root - INFO - finding all tasks
+2024-05-19 11:53:47,456 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,457 - root - INFO - finding all tasks
+2024-05-19 11:53:47,458 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,459 - root - INFO - finding all tasks
+2024-05-19 11:53:47,460 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,461 - root - INFO - finding all tasks
+2024-05-19 11:53:47,462 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:53:47,463 - root - INFO - finding all tasks
+2024-05-19 11:53:47,464 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,232 - root - INFO - finding all tasks
+2024-05-19 11:54:12,233 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,234 - root - INFO - finding all tasks
+2024-05-19 11:54:12,234 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,235 - root - INFO - finding all tasks
+2024-05-19 11:54:12,235 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,236 - root - INFO - finding all tasks
+2024-05-19 11:54:12,236 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,237 - root - INFO - finding all tasks
+2024-05-19 11:54:12,237 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,239 - root - INFO - finding all tasks
+2024-05-19 11:54:12,239 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,240 - root - INFO - finding all tasks
+2024-05-19 11:54:12,241 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,242 - root - INFO - finding all tasks
+2024-05-19 11:54:12,242 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,243 - root - INFO - finding all tasks
+2024-05-19 11:54:12,244 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:54:12,245 - root - INFO - finding all tasks
+2024-05-19 11:54:12,245 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:55:03,542 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:55:07,609 - root - INFO - Connection established
+2024-05-19 11:55:07,610 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:55:07,610 - root - INFO - Created Task Table
+2024-05-19 11:55:07,611 - root - INFO - finding all tasks
+2024-05-19 11:55:07,612 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:04,850 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:58:07,786 - root - INFO - Connection established
+2024-05-19 11:58:07,786 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:58:07,786 - root - INFO - Created Task Table
+2024-05-19 11:58:07,787 - root - INFO - finding all tasks
+2024-05-19 11:58:07,787 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,788 - root - INFO - found tasks 1
+2024-05-19 11:58:07,789 - root - INFO - finding all tasks
+2024-05-19 11:58:07,789 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,789 - root - INFO - found tasks 1
+2024-05-19 11:58:07,790 - root - INFO - finding all tasks
+2024-05-19 11:58:07,790 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,790 - root - INFO - found tasks 1
+2024-05-19 11:58:07,791 - root - INFO - finding all tasks
+2024-05-19 11:58:07,791 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,791 - root - INFO - found tasks 1
+2024-05-19 11:58:07,792 - root - INFO - finding all tasks
+2024-05-19 11:58:07,792 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,792 - root - INFO - found tasks 1
+2024-05-19 11:58:07,792 - root - INFO - finding all tasks
+2024-05-19 11:58:07,793 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,793 - root - INFO - found tasks 1
+2024-05-19 11:58:07,793 - root - INFO - finding all tasks
+2024-05-19 11:58:07,793 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,793 - root - INFO - found tasks 1
+2024-05-19 11:58:07,794 - root - INFO - finding all tasks
+2024-05-19 11:58:07,794 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,794 - root - INFO - found tasks 1
+2024-05-19 11:58:07,794 - root - INFO - finding all tasks
+2024-05-19 11:58:07,794 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,795 - root - INFO - found tasks 1
+2024-05-19 11:58:07,795 - root - INFO - finding all tasks
+2024-05-19 11:58:07,795 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 11:58:07,795 - root - INFO - found tasks 1
+2024-05-19 11:58:16,433 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 11:58:18,377 - root - INFO - Connection established
+2024-05-19 11:58:18,378 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 11:58:18,379 - root - INFO - Created Task Table
+2024-05-19 11:58:30,260 - root - INFO - finding all tasks
+2024-05-19 11:58:30,262 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:08,420 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 12:03:13,374 - root - INFO - Connection established
+2024-05-19 12:03:13,376 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 12:03:13,377 - root - INFO - Created Task Table
+2024-05-19 12:03:14,560 - root - INFO - finding all tasks
+2024-05-19 12:03:14,561 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:20,111 - root - INFO - finding all tasks
+2024-05-19 12:03:20,111 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,389 - root - INFO - finding all tasks
+2024-05-19 12:03:22,390 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,392 - root - INFO - finding all tasks
+2024-05-19 12:03:22,393 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,394 - root - INFO - finding all tasks
+2024-05-19 12:03:22,395 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,397 - root - INFO - finding all tasks
+2024-05-19 12:03:22,397 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,399 - root - INFO - finding all tasks
+2024-05-19 12:03:22,399 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,401 - root - INFO - finding all tasks
+2024-05-19 12:03:22,401 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,403 - root - INFO - finding all tasks
+2024-05-19 12:03:22,403 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:22,404 - root - INFO - finding all tasks
+2024-05-19 12:03:22,404 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,348 - root - INFO - finding all tasks
+2024-05-19 12:03:43,348 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,350 - root - INFO - finding all tasks
+2024-05-19 12:03:43,350 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,351 - root - INFO - finding all tasks
+2024-05-19 12:03:43,352 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,353 - root - INFO - finding all tasks
+2024-05-19 12:03:43,353 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,354 - root - INFO - finding all tasks
+2024-05-19 12:03:43,355 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,356 - root - INFO - finding all tasks
+2024-05-19 12:03:43,357 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,358 - root - INFO - finding all tasks
+2024-05-19 12:03:43,358 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,359 - root - INFO - finding all tasks
+2024-05-19 12:03:43,360 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,361 - root - INFO - finding all tasks
+2024-05-19 12:03:43,362 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:43,363 - root - INFO - finding all tasks
+2024-05-19 12:03:43,363 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:52,295 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 12:03:53,374 - root - INFO - Connection established
+2024-05-19 12:03:53,374 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 12:03:53,375 - root - INFO - Created Task Table
+2024-05-19 12:03:59,291 - root - INFO - finding all tasks
+2024-05-19 12:03:59,292 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,294 - root - INFO - finding all tasks
+2024-05-19 12:03:59,294 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,295 - root - INFO - finding all tasks
+2024-05-19 12:03:59,295 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,296 - root - INFO - finding all tasks
+2024-05-19 12:03:59,297 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,298 - root - INFO - finding all tasks
+2024-05-19 12:03:59,298 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,299 - root - INFO - finding all tasks
+2024-05-19 12:03:59,299 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,300 - root - INFO - finding all tasks
+2024-05-19 12:03:59,301 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,302 - root - INFO - finding all tasks
+2024-05-19 12:03:59,302 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,303 - root - INFO - finding all tasks
+2024-05-19 12:03:59,304 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:03:59,305 - root - INFO - finding all tasks
+2024-05-19 12:03:59,305 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:04:34,343 - root - INFO - finding all tasks
+2024-05-19 12:04:34,344 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:04:56,493 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-19 12:04:58,372 - root - INFO - Connection established
+2024-05-19 12:04:58,374 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-19 12:04:58,374 - root - INFO - Created Task Table
+2024-05-19 12:05:00,827 - root - INFO - finding all tasks
+2024-05-19 12:05:00,827 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-19 12:05:10,515 - root - INFO - found tasks 1
+2024-05-27 00:14:14,915 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:14:18,383 - root - INFO - Connection established
+2024-05-27 00:14:18,385 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:14:18,386 - root - INFO - Created Task Table
+2024-05-27 00:14:22,502 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:14:23,380 - root - INFO - Connection established
+2024-05-27 00:14:23,382 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:14:23,382 - root - INFO - Created Task Table
+2024-05-27 00:17:23,018 - root - INFO - finding all tasks
+2024-05-27 00:17:23,023 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 00:17:23,023 - root - INFO - found tasks 1
+2024-05-27 00:17:40,741 - root - INFO - Received a GET request in /tasks/1
+2024-05-27 00:17:40,742 - root - INFO - finding task with id: 1
+2024-05-27 00:17:40,746 - root - INFO - Executed SQL query SELECT * FROM task WHERE id = %s for insertion with params ('1',)
+2024-05-27 00:17:40,746 - root - INFO - found task with id: 1 - Task: 1: teste, wertewrwer, sdfsfs, None, 1, None, None
+2024-05-27 00:18:44,974 - root - INFO - finding all tasks
+2024-05-27 00:18:44,974 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 00:18:44,975 - root - INFO - found tasks 1
+2024-05-27 00:21:16,475 - root - INFO - finding all tasks
+2024-05-27 00:21:16,476 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 00:21:16,476 - root - INFO - found tasks 1
+2024-05-27 00:22:11,831 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:22:13,378 - root - INFO - Connection established
+2024-05-27 00:22:13,379 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:22:13,380 - root - INFO - Created Task Table
+2024-05-27 00:23:21,467 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post usando apenas forma padrão ', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:23:51,176 - root - ERROR - string index out of range
+2024-05-27 00:24:35,231 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:24:47,361 - root - ERROR - string index out of range
+2024-05-27 00:25:19,627 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:25:19,627 - root - ERROR - string index out of range
+2024-05-27 00:25:38,889 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:25:40,879 - root - ERROR - string index out of range
+2024-05-27 00:26:35,551 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:26:39,045 - root - ERROR - string index out of range
+2024-05-27 00:26:47,940 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:27:10,838 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:27:13,371 - root - INFO - Connection established
+2024-05-27 00:27:13,372 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:27:13,373 - root - INFO - Created Task Table
+2024-05-27 00:27:24,875 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:27:32,430 - root - ERROR - AttributeError: 'psycopg2.extensions.connection' object has no attribute 'execute'
+2024-05-27 00:27:51,348 - root - ERROR - 'psycopg2.extensions.connection' object has no attribute 'query'
+2024-05-27 00:30:07,832 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:30:08,379 - root - INFO - Connection established
+2024-05-27 00:30:08,382 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:30:08,382 - root - INFO - Created Task Table
+2024-05-27 00:30:32,161 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:31:25,571 - root - ERROR - AttributeError: 'psycopg2.extensions.connection' object has no attribute 'execute'
+2024-05-27 00:31:39,286 - root - ERROR - 'psycopg2.extensions.connection' object has no attribute 'query'
+2024-05-27 00:36:44,413 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:36:48,381 - root - INFO - Connection established
+2024-05-27 00:36:48,382 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:36:48,383 - root - INFO - Created Task Table
+2024-05-27 00:36:55,310 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:37:08,829 - root - ERROR - 'dict' object has no attribute 'title'
+2024-05-27 00:39:57,058 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:39:58,372 - root - INFO - Connection established
+2024-05-27 00:39:58,374 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:39:58,374 - root - INFO - Created Task Table
+2024-05-27 00:41:45,547 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:42:16,105 - root - ERROR - 'dict' object has no attribute 'title'
+2024-05-27 00:43:23,661 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:43:28,374 - root - INFO - Connection established
+2024-05-27 00:43:28,375 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:43:28,376 - root - INFO - Created Task Table
+2024-05-27 00:43:36,625 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:44:17,208 - root - ERROR - insert_table() takes 4 positional arguments but 5 were given
+2024-05-27 00:44:47,090 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:44:48,371 - root - INFO - Connection established
+2024-05-27 00:44:48,372 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:44:48,373 - root - INFO - Created Task Table
+2024-05-27 00:45:05,344 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:45:12,224 - root - ERROR - insert_table() takes 4 positional arguments but 5 were given
+2024-05-27 00:45:46,035 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:45:48,378 - root - INFO - Connection established
+2024-05-27 00:45:48,380 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:45:48,381 - root - INFO - Created Task Table
+2024-05-27 00:45:56,952 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:46:49,627 - root - ERROR - ValueError: unsupported format character ',' (0x2c) at index 99
+2024-05-27 00:46:49,627 - root - ERROR - Query: None
+2024-05-27 00:50:45,675 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:50:51,532 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:50:51,532 - root - ERROR - Query: None
+2024-05-27 00:51:07,334 - root - INFO - finding all tasks
+2024-05-27 00:51:07,335 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:51:07,335 - root - ERROR - Query: None
+2024-05-27 00:53:14,869 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:53:18,367 - root - INFO - Connection established
+2024-05-27 00:53:18,368 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:53:18,368 - root - INFO - Created Task Table
+2024-05-27 00:53:19,661 - root - INFO - finding all tasks
+2024-05-27 00:53:19,662 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 00:53:19,662 - root - INFO - found tasks 1
+2024-05-27 00:53:33,477 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:53:54,609 - root - ERROR - ValueError: unsupported format character ',' (0x2c) at index 99
+2024-05-27 00:53:54,610 - root - ERROR - Query: None
+2024-05-27 00:54:27,460 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27', 'updated_at': '2024-05-27'}`
+2024-05-27 00:54:29,258 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:54:29,258 - root - ERROR - Query: None
+2024-05-27 00:54:39,765 - root - INFO - finding all tasks
+2024-05-27 00:54:39,766 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:54:39,766 - root - ERROR - Query: None
+2024-05-27 00:54:59,561 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:55:03,371 - root - INFO - Connection established
+2024-05-27 00:55:03,371 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:55:03,372 - root - INFO - Created Task Table
+2024-05-27 00:55:16,422 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27', 'updated_at': '2024-05-27'}`
+2024-05-27 00:55:18,063 - root - ERROR - ValueError: unsupported format character ',' (0x2c) at index 99
+2024-05-27 00:55:18,064 - root - ERROR - Query: None
+2024-05-27 00:57:13,708 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:57:15,369 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:57:15,369 - root - ERROR - Query: None
+2024-05-27 00:57:22,585 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:57:23,378 - root - INFO - Connection established
+2024-05-27 00:57:23,380 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:57:23,380 - root - INFO - Created Task Table
+2024-05-27 00:57:41,057 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27T19:10:25-07Z', 'updated_at': '2024-05-27T19:10:25-07Z'}`
+2024-05-27 00:57:41,059 - root - ERROR - InvalidDatetimeFormat: invalid input syntax for type timestamp: "2024-05-27T19:10:25-07Z"
+LINE 1: ...pots task','teste do post','to do','2024-05-27',1,'2024-05-2...
+                                                             ^
+
+2024-05-27 00:57:41,060 - root - ERROR - Query: b"INSERT INTO task (title, description, status, date_end, priority, created_at, updated_at) VALUES ('pots task','teste do post','to do','2024-05-27',1,'2024-05-27T19:10:25-07Z','2024-05-27T19:10:25-07Z')"
+2024-05-27 00:57:59,242 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:57:59,242 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:57:59,242 - root - ERROR - Query: b"INSERT INTO task (title, description, status, date_end, priority, created_at, updated_at) VALUES ('pots task','teste do post','to do','2024-05-27',1,'2024-05-27T19:10:25-07Z','2024-05-27T19:10:25-07Z')"
+2024-05-27 00:58:20,638 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:58:23,379 - root - INFO - Connection established
+2024-05-27 00:58:23,381 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:58:23,382 - root - INFO - Created Task Table
+2024-05-27 00:58:27,865 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 00:58:27,869 - root - ERROR - UniqueViolation: duplicate key value violates unique constraint "task_pkey"
+DETAIL:  Key (id)=(1) already exists.
+
+2024-05-27 00:58:27,870 - root - ERROR - Query: b"INSERT INTO task (title, description, status, date_end, priority, created_at, updated_at) VALUES ('pots task','teste do post','to do','2024-05-27',1,'2024-05-27 19:10:25-07','2024-05-27 19:10:25-07')"
+2024-05-27 00:59:07,652 - root - INFO - finding all tasks
+2024-05-27 00:59:07,653 - root - ERROR - InterfaceError: cursor already closed
+2024-05-27 00:59:07,653 - root - ERROR - Query: b"INSERT INTO task (title, description, status, date_end, priority, created_at, updated_at) VALUES ('pots task','teste do post','to do','2024-05-27',1,'2024-05-27 19:10:25-07','2024-05-27 19:10:25-07')"
+2024-05-27 00:59:12,572 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 00:59:13,378 - root - INFO - Connection established
+2024-05-27 00:59:13,380 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 00:59:13,381 - root - INFO - Created Task Table
+2024-05-27 00:59:18,428 - root - INFO - finding all tasks
+2024-05-27 00:59:18,430 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 00:59:18,430 - root - INFO - found tasks 1
+2024-05-27 01:01:03,978 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:01:08,378 - root - INFO - Connection established
+2024-05-27 01:01:08,379 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:01:08,380 - root - INFO - Created Task Table
+2024-05-27 01:01:14,747 - root - INFO - finding all tasks
+2024-05-27 01:01:14,749 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 01:01:14,749 - root - INFO - found tasks 1
+2024-05-27 01:01:18,999 - root - INFO - creating new task: `{'title': 'pots task', 'description': 'teste do post', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}`
+2024-05-27 01:01:18,999 - root - INFO - Executed SQL query INSERT INTO task (id, title, description, status, date_end, priority, created_at, updated_at) VALUES (DEFAULT, %s,%s,%s,%s,%s,%s,%s) for insertion with params ('pots task', 'teste do post', 'to do', '2024-05-27', 1, '2024-05-27 19:10:25-07', '2024-05-27 19:10:25-07')
+2024-05-27 01:01:36,086 - root - INFO - finding all tasks
+2024-05-27 01:01:36,086 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 01:01:36,086 - root - INFO - found tasks 2
+2024-05-27 01:14:25,697 - root - INFO - finding all tasks
+2024-05-27 01:14:25,697 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 01:14:25,698 - root - INFO - found tasks 2
+2024-05-27 01:17:15,747 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:17:18,378 - root - INFO - Connection established
+2024-05-27 01:17:18,380 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:17:18,381 - root - INFO - Created Task Table
+2024-05-27 01:19:59,650 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:20:02,948 - root - INFO - Connection established
+2024-05-27 01:20:02,949 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:20:02,949 - root - INFO - Created Task Table
+2024-05-27 01:20:11,938 - root - INFO - updating task: id  1, {'title': 'edit put', 'description': 'teste do put', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}
+2024-05-27 01:30:58,075 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:30:58,373 - root - INFO - Connection established
+2024-05-27 01:30:58,374 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:30:58,375 - root - INFO - Created Task Table
+2024-05-27 01:31:04,232 - root - INFO - updating task: id  1, {'title': 'edit put', 'description': 'teste do put', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}
+2024-05-27 01:31:05,929 - root - ERROR - TaskRepositoryImpl.update() missing 1 required positional argument: 'task'
+2024-05-27 01:31:37,896 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:31:38,371 - root - INFO - Connection established
+2024-05-27 01:31:38,372 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:31:38,373 - root - INFO - Created Task Table
+2024-05-27 01:31:43,449 - root - INFO - updating task: id  1, {'title': 'edit put', 'description': 'teste do put', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}
+2024-05-27 01:32:02,605 - root - ERROR - AttributeError: 'psycopg2.extensions.connection' object has no attribute 'execute'
+2024-05-27 01:32:02,606 - root - ERROR - 'psycopg2.extensions.connection' object has no attribute 'query'
+2024-05-27 01:32:45,653 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:32:48,370 - root - INFO - Connection established
+2024-05-27 01:32:48,371 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:32:48,372 - root - INFO - Created Task Table
+2024-05-27 01:38:00,422 - root - INFO - updating task: id  1, {'title': 'edit put', 'description': 'teste do put', 'status': 'to do', 'date_end': '2024-05-27', 'priority': 1, 'category': None, 'user': None, 'created_at': '2024-05-27 19:10:25-07', 'updated_at': '2024-05-27 19:10:25-07'}
+2024-05-27 01:38:01,243 - root - INFO - Executed SQL query UPDATE task SET title = %s, description = %s WHERE id = %s for updated with params ('edit put', 'teste do put', '1')
+2024-05-27 01:38:16,227 - root - INFO - finding all tasks
+2024-05-27 01:38:16,228 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 01:38:16,228 - root - INFO - found tasks 2
+2024-05-27 01:46:22,426 - config.log_config - INFO - Starting httpd server on port 8080
+2024-05-27 01:46:23,378 - root - INFO - Connection established
+2024-05-27 01:46:23,379 - root - INFO - Executed SQL query 
+                CREATE TABLE IF NOT EXISTS task (
+                    id SERIAL PRIMARY KEY,
+                    title VARCHAR(255),
+                    description TEXT,
+                    status VARCHAR(50),
+                    date_end DATE,
+                    priority INT,
+                    category_id INT,
+                    user_id INT,
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP
+                    )
+2024-05-27 01:46:23,380 - root - INFO - Created Task Table
+2024-05-27 01:46:37,849 - root - INFO - deleting task id  1
+2024-05-27 01:46:37,851 - root - INFO - Executed SQL query DELETE FROM task WHERE id = %s for updated with params ('1',)
+2024-05-27 01:46:42,956 - root - INFO - finding all tasks
+2024-05-27 01:46:42,957 - root - INFO - Executed SQL query SELECT * FROM task for insertion with params None
+2024-05-27 01:46:42,957 - root - INFO - found tasks 1

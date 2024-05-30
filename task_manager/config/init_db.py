@@ -1,0 +1,3 @@
+#TODO: criar todos os creates tables aqui...
+
+## pesquisa depois sobre migrations
